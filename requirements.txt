@@ -1,0 +1,15 @@
+beautifulsoup4
+brotlipy
+certifi
+cffi
+chardet
+cryptography
+idna
+lxml
+pycparser
+pyOpenSSL
+PySocks
+requests
+six
+soupsieve
+urllib3
